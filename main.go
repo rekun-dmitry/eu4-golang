@@ -3,18 +3,18 @@ package main
 import "fmt"
 
 func main() {
-	infantryFactory, _ := getUnitFactory("infantry")
-	cavalryFactory, _ := getUnitFactory("cavalry")
+	landFactory, _ := getUnitFactory("land")
+	navalFactory, _ := getUnitFactory("naval")
 
-	infantryUnit := infantryFactory.makeUnit()
-	cavalryUnit := cavalryFactory.makeUnit()
+	landUnit := landFactory.makeUnit()
+	navalryUnit := navalFactory.makeUnit()
 
-	printUnitDetails(infantryUnit)
-	printUnitDetails(cavalryUnit)
+	printUnitDetails(landUnit)
+	printUnitDetails(navalryUnit)
 
 }
 
-func printUnitDetails(s iUnit) {
+func printUnitDetails(s warUnit) {
 	fmt.Printf("Name: %s", s.getName())
 	fmt.Println()
 }
