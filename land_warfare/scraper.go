@@ -21,9 +21,9 @@ type terrain struct {
 	terra           string `db:"terrain_name"`
 }
 
-func main() {
-	crawl()
-}
+//func main() {
+//crawl()
+//}
 
 func check(e error) {
 	if e != nil {
