@@ -1,0 +1,218 @@
+Source,Destination,Distance,IsRiver
+Novgorod,Ladoga,15,1
+Novgorod,Neva,14,1
+Novgorod,Ingermanland,20,1
+Novgorod,Kholm,10,1
+Novgorod,Rzhev,20,1
+Novgorod,Vyshny Volochyok,22,0
+Novgorod,Tikhvin,16,0
+Ingermanland,Pskov,13,0
+Ingermanland,Kholm,15,0
+Ingermanland,Neva,10,0
+Pskov,Kholm,17,0
+Pskov,Luki,15,0
+Pskov,Ostrov,14,1
+Ostrov,Luki,11,1
+Ostrov,Polotsk,11,1
+Luki,Kholm,12,0
+Luki,Polotsk,11,1
+Luki,Vitebsk,20,1
+Luki,Toropets,14,1
+Vitebsk,Polotsk,12,1
+Vitebsk,Toropets,14,1
+Vitebsk,Smolensk,13,1
+Vitebsk,Mstislav,14,1
+Vitebsk,Mogilev,18,1
+Mogilev,Mstislav,10,1
+Mogilev,Trubchevsk,18,1
+Kholm,Rzhev,23,1
+Toropets,Rzhev,11,1
+Toropets,Vyazma,14,1
+Toropets,Smolensk,20,1
+Rzhev,Vyshny Volochyok,18,0
+Rzhev,Torzhok,13,0
+Rzhev,Zubtsov,16,1
+Rzhev,Mozhaisk,18,1
+Rzhev,Vyazma,18,1
+Vyazma,Mozhaisk,15,0
+Vyazma,Kaluga,18,0
+Vyazma,Bryansk,17,0
+Vyazma,Smolensk,12,1
+Smolensk,Mstislav,9,0
+Smolensk,Bryansk,16,1
+Smolensk,Trubchevsk,20,0
+Mstislav,Trubchevsk,10,
+Trubchevsk,Bryansk,13,1
+Trubchevsk,Severia,12,1
+Bryansk,Kaluga,14,0
+Bryansk,Oka,14,0
+Bryansk,Severia,17,1
+Severia,Oka,15,0
+Severia,Rylsk,10,0
+Severia,Kursk,20,0
+Rylsk,Kursk,12,0
+Kursk,Oka,20,0
+Kursk,Yelets,11,0
+Neva,Ladoga,16,1
+Neva,Kexholm,24,1
+Ladoga,Olonets,18,1
+Ladoga,Tikhvin,11,1
+Tikhvin,Olonets,24,1
+Tikhvin,Vyshny Volochyok,12,0
+Tikhvin,Ustyuzhna,21,0
+Vyshny Volochyok,Torzhok,10,0
+Vyshny Volochyok,Ustyuzhna,15,0
+Vyshny Volochyok,Bezhetsk,20,0
+Torzhok,Bezhetsk,16,0
+Torzhok,Tver,9,1
+Torzhok,Zubtsov,14,1
+Kexholm,Karelia,15,0
+Kexholm,White Karelia,37,0
+Kexholm,Olonets,25,0
+Karelia,White Karelia,23,0
+Olonets,White Karelia,42,1
+Olonets,Kargopol,28,0
+Olonets,Beloozero,28,0
+Olonets,Ustyuzhna,23,1
+White Karelia,Soroka,28,1
+White Karelia,Kola,37,0
+Soroka,Kargopol,18,0
+Soroka,Onega,23,0
+Onega,Kargopol,20,0
+Onega,Shenkursk,27,0
+Onega,Kholmogory,22,1
+Kargopol,Beloozero,18,0
+Kargopol,Shenkursk,34,0
+Kargopol,Velsk,15,0
+Velsk,Beloozero,12,0
+Velsk,Shenkursk,23,0
+Velsk,Totma,17,0
+Velsk,Vologda,18,1
+Shenkursk,Kholmogory,28,1
+Shenkursk,Solvychegodsk,26,1
+Shenkursk,Totma,23,0
+Shenkursk,Ustyug,25,1
+Kholmogory,Mezen,21,0
+Kholmogory,Solvychegodsk,32,0
+Mezen,Solvychegodsk,29,0
+Solvychegodsk,Ustyug,27,1
+Solvychegodsk,Ust-Vym,29,1
+Totma,Vologda,15,1
+Totma,Sol Galitskaya,14,1
+Totma,Ustyug,30,1
+Ustyug,Ust-Vym,30,1
+Ustyug,Sol Galitskaya,22,0
+Ustyug,Viatka,32,0
+Ustyug,Galich,27,0
+Ustyug,Vetluga,29,0
+Viatka,Ust-Vym,34,0
+Viatka,Ust-Sysolsk,32,0
+Viatka,Kudymkar,40,1
+Viatka,Izhkar,26,0
+Viatka,Udmurtia,25,0
+Viatka,Kazan,28,0
+Viatka,Vetluga,27,0
+Vetluga,Kazan,25,0
+Vetluga,Veda-Suvar,23,1
+Vetluga,Nizhny Novgorod,19,0
+Vetluga,Galich,20,0
+Galich,Sol Galitskaya,2,0
+Galich,Nizhny Novgorod,20,0
+Galich,Kostroma,22,0
+Galich,Starodub,17,1
+Sol Galitskaya,Vologda,23,0
+Sol Galitskaya,Kostroma,16,0
+Vologda,Beloozero,15,1
+Vologda,Ustyuzhna,23,0
+Vologda,Mologa,12,0
+Vologda,Kostroma,13,0
+Beloozero,Ustyuzhna,17,0
+Ustyuzhna,Mologa,15,0
+Ustyuzhna,Bezhetsk,17,0
+Kostroma,Mologa,17,0
+Kostroma,Yaroslavl,10,1
+Kostroma,Starodub,17,1
+Kostroma,Suzdal,17,1
+Nizhny Novgorod,Starodub,17,1
+Nizhny Novgorod,Veda-Suvar,16,1
+Nizhny Novgorod,Alatyr,19,1
+Nizhny Novgorod,Murom,13,1
+Starodub,Suzdal,13,0
+Starodub,Murom,13,1
+Alatyr,Murom,14,0
+Alatyr,Kasimov,24,0
+Alatyr,Penza,14,0
+Alatyr,Simbirsk,21,0
+Alatyr,Veda-Suvar,15,0
+Murom,Suzdal,17,1
+Murom,Kasimov,12,0
+Murom,Vladimir,21,1
+Suzdal,Yaroslavl,12,0
+Suzdal,Rostov,17,0
+Suzdal,Yuriev,16,0
+Suzdal,Vladimir,14,0
+Kasimov,Ryazan,15,1
+Kasimov,Vladimir,12,1
+Kasimov,Penza,20,0
+Vladimir,Ryazan,10,1
+Vladimir,Yuriev,11,0
+Vladimir,Kolomna,17,1
+Yuriev,Kolomna,13,1
+Yuriev,Moskva,13,1
+Yuriev,Rostov,10,0
+Yuriev,Kashin,13,1
+Rostov,Yaroslavl,7,0
+Rostov,Kashin,12,1
+Rostov,Bezhetsk,13,1
+Yaroslavl,Mologa,8,1
+Bezhetsk,Tver,13,1
+Bezhetsk,Kashin,13,1
+Bezhetsk,Mologa,11,0
+Moskva,Tver,14,1
+Moskva,Kashin,14,1
+Moskva,Zubtsov,15,1
+Moskva,Kolomna,8,0
+Moskva,Kaluga,11,0
+Moskva,Mozhaisk,13,1
+Kolomna,Kaluga,17,1
+Kolomna,Tula,12,1
+Kolomna,Ryazan,11,1
+Kaluga,Tula,14,1
+Kaluga,Oka,15,0
+Kaluga,Mozhaisk,10,0
+Mozhaisk,Zubtsov,10,1
+Zubtsov,Tver,6,0
+Tver,Kashin,10,1
+Oka,Tula,13,1
+Oka,Yelets,16,1
+Tula,Ryazan,14,0
+Tula,Pronsk,12,1
+Tula,Yelets,17,0
+Yelets,Pronsk,11,1
+Pronsk,Ryazan,11,0
+Ust-Vym,Ust-Sysolsk,26,1
+Ust-Sysolsk,Kudymkar,31,1
+Ust-Sysolsk,Cherdyn,29,1
+Cherdyn,Kudymkar,35,1
+Cherdyn,Solikamsk,31,0
+Kudymkar,Solikamsk,22,1
+Kudymkar,Perm,24,1
+Kudymkar,Izhkar,15,0
+Perm,Bashgird,27,0
+Perm,Ar-Chally,21,1
+Perm,Izhkar,25,1
+Perm,Udmurtia,30,1
+Izhkar,Udmurtia,15,0
+Udmurtia,Ar-Chally,17,1
+Udmurtia,Kazan,21,0
+Ar-Chally,Juketau,17,0
+Ar-Chally,Kazan,31,1
+Kazan,Tetyushi,11,1
+Kazan,Bolgar,23,1
+Kazan,Veda-Suvar,20,1
+Bolgar,Tetyushi,12,1
+Bolgar,Simbirsk,16,1
+Tetyushi,Veda-Suvar,13,0
+Tetyushi,Simbirsk,14,0
+Veda-Suvar,Simbirsk,20,0
+Simbirsk,Penza,24,0
